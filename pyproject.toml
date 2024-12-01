@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "iti0002-2024"
+version = "0.1.0"
+description = "ITI0002 Programmeerimise täiendusõpe (2024)"
+authors = ["Karl Hans Laurits <168311564+rejoice4156@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
